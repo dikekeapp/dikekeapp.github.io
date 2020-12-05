@@ -13,8 +13,8 @@
   </a>
 </p>
 
-<div>
+<p align="center">
 <a target="_blank" rel="noopener noreferrer" href=""><img width="225" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dikekeapp/dikekeapp.github.io/main/assets/img/logo2.png"><img align="center" src="https://raw.githubusercontent.com/dikekeapp/dikekeapp.github.io/main/assets/img/logo2.png" alt="drawing" height="200" data-canonical-src="https://raw.githubusercontent.com/dikekeapp/dikekeapp.github.io/main/assets/img/logo2.png" style="max-width:100%;"></a>
-</div>
+</p>
    
