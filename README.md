@@ -15,5 +15,6 @@
 
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dikekeapp/dikekeapp.github.io/main/assets/img/logo2.png"><img src="https://raw.githubusercontent.com/dikekeapp/dikekeapp.github.io/main/assets/img/logo2.png" alt="drawing" height="200" data-canonical-src="https://raw.githubusercontent.com/dikekeapp/dikekeapp.github.io/main/assets/img/logo2.png" style="max-width:100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dikekeapp/dikekeapp.github.io/main/assets/img/icon-1.png"><img src="https://raw.githubusercontent.com/dikekeapp/dikekeapp.github.io/main/assets/img/icon-1.png" alt="drawing" height="200" data-canonical-src="https://raw.githubusercontent.com/dikekeapp/dikekeapp.github.io/main/assets/img/icon-1.png" style="max-width:100%;"></a>
 </p>
    
