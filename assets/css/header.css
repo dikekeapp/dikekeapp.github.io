@@ -1,0 +1,112 @@
+@font-face {
+	font-family: gilroy-extrabold;
+	src: url(../../assets/webfonts/gilroy-extrabold.otf);
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: gilroy-light;
+	src: url(../../assets/webfonts/gilroy-light.otf);
+	font-weight: normal;
+	font-style: normal;
+}
+
+.header {
+  background-image: url(../../assets/img/background-image-intro.png);
+  background-color: #184e8e;
+  padding-bottom: 80px;
+  background-size: cover;
+}
+
+.header .heroi .h1 {
+  font-family: gilroy-extrabold;
+
+}
+
+@media (min-width:768px) {
+  .header .navbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
+
+.header .navbar .navbar-brand:hover {
+  color: #f0f0f0;
+}
+
+@media (min-width:768px) {
+  .header .navbar .navbar-collapse {
+    border-color: transparent;
+    margin: 0;
+  }
+}
+
+.header .navbar .navbar-toggler {
+  border-color: rgba(255,255,255,0.3);
+}
+
+.header .navbar .navbar-toggler:hover, .header .navbar-toggler:focus {
+  background: none;
+}
+
+@media (min-width: 768px) {
+  .header .navbar-nav .nav-link {
+    padding-left: .7rem;
+    padding-right: .7rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .header .navbar-nav .nav-link {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+}
+
+.header .hero h1 {
+  color: #fff;
+  font-size: 90px;
+  margin-top: 50px;
+  margin-bottom: 15px;
+  font-weight: 300;
+  line-height: 1.4;
+  font-family: gilroy-extrabold;
+
+}
+
+.header .hero p {
+  color: rgba(255,255,255,0.8);
+  font-size: 30px;
+  margin-bottom: 30px;
+  font-weight: 300;
+  font-family: gilroy-light;
+
+}
+
+@media (max-width: 992px) {
+  .header-img {
+    height: 3000px;
+  }
+}
+
+@media (max-width: 992px) {
+  .header .hero h1 {
+    color: #fff;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    font-weight: 300;
+    line-height: 1.4;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+}
+
+@media (max-width: 992px) {
+  p {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+}
+

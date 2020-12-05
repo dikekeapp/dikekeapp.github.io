@@ -1,0 +1,129 @@
+body {
+	background-color: #151327;
+}
+
+h2,
+h3,
+h4 {
+	color: #FF6D24;
+}
+
+h5 {
+	color: #FF6D24;
+}
+
+h1 {
+	color: #FF6D24;
+	font-size: 400%;
+	font-family: gilroy-extrabold;
+
+}
+
+h3 {
+	font-size: 300%;
+}
+
+h6 {
+	font-family: gilroy-light;
+
+}
+
+dl {
+	color: #FFFFFF;
+}
+
+p {
+	color: #FFFFFF;
+	font-size: 130%;
+	font-family: gilroy-light;
+}
+
+li,
+a,
+span {
+
+	color: #FFFFFF;
+}
+
+.icon {
+	color: #FF6D24;
+}
+
+.custom-section {
+	background-color: #070A1B;
+}
+
+.list-group {
+	font-size: 60px;
+	padding-left: 4.2rem;
+}
+
+@media (max-width:767px) {
+	.list-group {
+		font-size: 40px;
+		padding-left: 1.2rem;
+
+	}
+}
+
+.list-group .destaque {
+	color: #FF6D24;
+
+}
+
+.nav-pills .nav-link,
+.nav-pills .show>.nav-link {
+	color: #fff;
+	font-size: 150%;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+	color: #fff;
+	background-color: #FF6D24;
+}
+
+.swal2-title {
+	color: #fff;
+
+}
+
+.swal2-content {
+	color: #fff;
+
+}
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+	display: block;
+}
+
+.carousel-inner {
+	height: 200px;
+}
+
+@media (max-width:991px) {
+	.carousel-inner {
+		height: 300px;
+	}
+}
+
+@media (max-width:767px) {
+	.carousel-inner {
+		height: 450px;
+	}
+}
+
+@media (max-width:371px) {
+	.carousel-inner {
+		height: 590px;
+	}
+}
+
+.animate__animated.animate__custom__delay {
+	-webkit-animation-delay: 0.1s;
+	animation-delay: 0.1s;
+	-webkit-animation-delay: calc(var(--animate-delay)/3);
+	animation-delay: calc(var(--animate-delay)/3);
+}
