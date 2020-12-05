@@ -5,7 +5,7 @@
    DiKeké
    <br>
 </h1>
-<p align="center">De pretx para pretx</p>
+<p align="center">Enaltecendo a estética preta e devolvendo o seu sorriso, favela!</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT" rel="nofollow">
